@@ -1,6 +1,5 @@
-slidenumbers: true
 
-# [fit] Introduction to Grails 3.1
+# Introduction to Grails 3.1
 
 ### Presented by David Estes (@davydotcom) 
 
